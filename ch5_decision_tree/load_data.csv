@@ -1,0 +1,16 @@
+no,age,job,house,debet,y
+1,qn,0,0,normal,0
+2,qn,0,0,good,0
+3,qn,1,0,good,1
+4,qn,1,1,normal,1
+5,qn,0,0,perfect,1
+6,zn,0,0,normal,0
+7,zn,1,1,good,1
+8,zn,0,1,perfect,1
+9,zn,0,1,good,1
+10,ln,0,1,perfect,1
+11,ln,0,1,good,1
+12,ln,1,0,good,1
+13,ln,1,0,perfect,1
+14,ln,0,0,normal,0
+15,ln,0,0,good,0

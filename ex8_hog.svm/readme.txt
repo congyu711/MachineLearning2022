@@ -1,0 +1,1 @@
+This folder is created in wsl2 ubuntu.(because boost library and dynamic linked library for python is easier to use in linux)
